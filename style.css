@@ -74,3 +74,25 @@ body {
     margin: 0;
     font-weight: 600;
 }
+
+#experience h2{
+    font-size: 1em;
+    font-weight: 500;
+    color: #52AE63;
+}
+
+#experience h3{
+    font-size: 1em;
+    font-weight: 600;
+    color: #287AC6;
+    margin: 0;
+}
+
+#experience p{
+    margin: 0;
+    font-weight: 600;
+}
+
+.experiencie_container {
+    margin-top: 20px;
+}
