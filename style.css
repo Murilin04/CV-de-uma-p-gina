@@ -56,3 +56,21 @@ body {
     font-weight: 600;
     margin: 0;   
 }
+
+#education h2{
+    font-size: 1em;
+    font-weight: 500;
+    color: #52AE63;
+}
+
+#education h3{
+    font-size: 1em;
+    font-weight: 600;
+    color: #287AC6;
+    margin: 0;
+}
+
+#education p{
+    margin: 0;
+    font-weight: 600;
+}
