@@ -32,9 +32,15 @@ body {
     font-weight: 500;
 }
 
-.cabecalho p {
+.cabecalho h2 {
     font-size: 1em;
-    font-weight: 400;
+    font-weight: 500;
     color: #52AE63;
     
+}
+
+.cabecalho p {
+    font-size: 1em;
+    font-weight: 600;
+    margin: 0;   
 }
