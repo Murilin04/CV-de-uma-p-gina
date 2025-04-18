@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/*
+ * Global Styles
+ */
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #f4f4f4;
+    margin: 50px 100px;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 50px;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+
+.cabecalho hr {
+    position: absolute;
+    border: 1px solid black;
+    width: 50%;
+    align-items: flex-end;
+}
+
+.cabecalho h1 {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.cabecalho p {
+    font-size: 1em;
+    font-weight: 400;
+    color: #52AE63;
+    
+}
